@@ -1,0 +1,1 @@
+This is LDDelgad's (Leo) first git project from the Odin Project!
